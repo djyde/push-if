@@ -1,5 +1,8 @@
 # push-if
 
+![npm](https://img.shields.io/npm/v/push-if.svg)
+![npm](https://img.shields.io/npm/dm/push-if.svg)
+
 Push a element to the array if true.
 
 ## Installation
