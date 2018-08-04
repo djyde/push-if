@@ -2,6 +2,7 @@
 
 ![npm](https://img.shields.io/npm/v/push-if.svg)
 ![npm](https://img.shields.io/npm/dm/push-if.svg)
+[![CircleCI](https://circleci.com/gh/djyde/push-if.svg?style=svg)](https://circleci.com/gh/djyde/push-if)
 
 Push a element to the array if true.
 
